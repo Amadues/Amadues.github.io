@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "阿琴波尔迪"
+title: "一座墓碑立起来了"
 ---
 
 <div class="tiles">
