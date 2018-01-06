@@ -12,6 +12,12 @@ image:
 
 此处留下网页作品集
 
+<<<<<<< HEAD
 [网页试做.png](https://i.loli.net/2018/01/06/5a50dd26cd5e1.png)
 #### [期中网页](https://kusumuxi.github.io/portfolio/期中网页)
 - 崩坏3简易网站
+=======
+![pEitXt.jpg](https://s1.ax1x.com/2018/01/06/pEitXt.jpg)
+[期中网页](https://kusumuxi.github.io/portfolio/期中网页)
+- 崩坏3简易版
+>>>>>>> origin/master
