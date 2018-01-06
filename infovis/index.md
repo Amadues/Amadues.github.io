@@ -21,10 +21,12 @@ image:
 - Q组可视化对收入与存款展开了调查分析
 ----
 ![日常作业一.png](https://i.loli.net/2018/01/06/5a50e767d3feb.png)
-[日常作业一] (https://public.tableau.com/views/_16063/2?:embed=y&:display_count=yes)
+[日常作业一](https://public.tableau.com/views/_16063/2?:embed=y&:display_count=yes) 
+
 ----
 ![日常作业二.png](https://i.loli.net/2018/01/06/5a50e77a9398d.png)
 [日常作业二](https://public.tableau.com/views/_16062/1_2?:embed=y&:display_count=yes)
+
 ----
 ![日常作业三.png](https://i.loli.net/2018/01/06/5a50e79b1c19b.png)
 [日常作业三](https://public.tableau.com/shared/MS7YMX7X8?:display_count=yes)
