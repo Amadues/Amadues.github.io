@@ -3,14 +3,14 @@
 - title: 文章
   url: /posts/
   excerpt: "学习笔记"
-  image: 控分大佬.jpg
+  image: 掌控文章.jpg
 
 - title: Web 作品集
   url: /portfolio/
-  excerpt: "看不见网页做好 怎么睡得着"
-  image: 摆头.jpg
+  excerpt: "网页设计是个问题"
+  image: 点头.jpg
 
 - title: 可视化作品
   url: /infovis/
-  excerpt: "我用可视化成就你的梦想"
-  image: 小埋.gif
+  excerpt: "可视化就是可以为所欲为"
+  image: 牧濑.gif
