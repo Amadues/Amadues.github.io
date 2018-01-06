@@ -13,5 +13,5 @@ image:
 此处留下网页作品集
 
 ![pEitXt.jpg](https://s1.ax1x.com/2018/01/06/pEitXt.jpg)
-[期中网页](https://kannroy.github.io/portfolio/期中网页)
-- 犯罪心理学
+[期中网页](https://kusumuxi.github.io/portfolio/期中网页)
+- 崩坏3简易版
