@@ -12,7 +12,7 @@ image:
 
 此处留下可视化作品集
 
-![pEiDhQ.png](https://s1.ax1x.com/2018/01/06/pEiDhQ.png)
+![电竞行业发展可视化.png](https://i.loli.net/2018/01/06/5a50c9b2eb00f.png)
 [国内电竞行业可视化](https://public.tableau.com/views/1_5301/1_2?:embed=y&:display_count=yes)
 - 使用高德地图API获取了“电竞馆”、“电子竞技中心”、“电子竞技培训俱乐部”的数据
 
