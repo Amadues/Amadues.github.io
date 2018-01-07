@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "一座墓碑立起来了"
+title: "一杯敬网页，一杯敬可视化"
 ---
 
 <div class="tiles">

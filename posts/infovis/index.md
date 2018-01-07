@@ -6,11 +6,11 @@ modified:
 excerpt: "学习笔记"
 tags: []
 image: 
-  feature: earth.jpg
+  feature: 助手.jpg
   teaser:
 ---
 
-在此留下我在可视化学习途中收集到的信息
+以下就是我这个学期所归纳的可视化笔记
 
 <div class="tiles">
 {% for post in site.categories.infovis %}
