@@ -16,6 +16,6 @@ image:
 -  使用高德地图API获取了“文化遗产”、“自然遗产”、“国际湿地遗产”、“灌溉工程遗产”、“文化景观”的数据
 
 ![Q组期中可视化作业.png](https://s1.ax1x.com/2018/01/06/pEiUnP.jpg)
-[期中可视化作品](https://Amadues.github.io/infovis/O组可视化作品/)
+[期中可视化作品](https://Amadues.github.io/infovis/O组可视化/)
 -  期中信息可视化作业展示:粮食产量问题
 
