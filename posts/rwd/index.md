@@ -6,11 +6,11 @@ modified:
 excerpt: "学习笔记"
 tags: []
 image: 
-  feature: @.jpg
-  teaser:
+feature: @.jpg
+teaser:
 ---
 
-在此留下我在Web的学习途中收集到的信息
+以下是我这个学期网页设计所归纳的笔记
 
 <div class="tiles">
 {% for post in site.categories.rwd %}
