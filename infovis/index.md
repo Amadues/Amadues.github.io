@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "可视化 作品"
+title: "信息可视化作品作品集"
 date: 2018-1-03T23:11:36-04:00
 modified:
 excerpt: "可视化合集"
@@ -9,7 +9,7 @@ image:
   feature:
   teaser:
 ---
-此处留下可视化作品集
+这里是我本学期的可视化作品
 
 ![国内电竞.png](https://i.loli.net/2018/01/06/5a50ef353b81b.png)
 [国内电竞行业可视化](https://public.tableau.com/views/1_5301/1_2?:embed=y&:display_count=yes)
