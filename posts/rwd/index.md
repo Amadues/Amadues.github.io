@@ -6,7 +6,7 @@ modified:
 excerpt: "学习笔记"
 tags: []
 image: 
-  feature: earth.jpg
+  feature: 
   teaser:
 ---
 
