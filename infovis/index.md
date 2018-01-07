@@ -6,7 +6,7 @@ modified:
 excerpt: "可视化合集"
 tags: []
 image: 
-  feature: 圣人惠.gif
+  feature:
   teaser:
 ---
 此处留下可视化作品集
