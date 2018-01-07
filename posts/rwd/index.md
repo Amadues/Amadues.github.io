@@ -6,8 +6,8 @@ modified:
 excerpt: "学习笔记"
 tags: []
 image: 
-feature: @.jpg
-teaser:
+  feature: @.jpg
+  teaser:
 ---
 
 以下是我这个学期网页设计所归纳的笔记
